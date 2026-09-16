@@ -7,10 +7,6 @@ resource_groups = {
     name     = "Arun2"
     location = "east us"
   }
-  "rg3" = {
-    name     = "Arun3"
-    location = "east us"
-  }
 }
 
 virtual_network = {
